@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026218435925",
+    "firebase_url": "https://my-raj-project.firebaseio.com",
+    "project_id": "my-raj-project",
+    "storage_bucket": "my-raj-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026218435925:android:0962023923bff05d",
+        "android_client_info": {
+          "package_name": "com.example.tryraj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026218435925-52tqp7jdd6obrsah67j1772ckibsv5do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeRqwAZ4mGCkqvIIu_ztav8DDWZliNvqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
